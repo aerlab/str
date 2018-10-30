@@ -1,2 +1,2 @@
-# str
+# STR
 Short Technical Routines
